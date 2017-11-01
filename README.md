@@ -1,6 +1,4 @@
-# erlangos7
-
-ErlangOS Linux version 7
+# ErlangOS Linux version 7
 
 The ErlangOS Linux distribution is a platform derived from the sources of Red Hat Enterprise Linux (RHEL) and CentOS optimized for Erlang programming language developpers.
 
